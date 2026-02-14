@@ -142,13 +142,11 @@ Mobile-first CSS ensures the portfolio looks great on all device sizes.
 
 ## 📧 Contact
 
-- **Email**: vivek@example.com
+- **Email**: vivek@gmail.com
 - **GitHub**: [viveksalimath](https://github.com/viveksalimath)
 - **LinkedIn**: [Vivek Salimath](https://linkedin.com/in/viveksalimath)
 
-## 📄 License
 
-This project is open source and available under the ISC License.
 
 ## 🙏 Acknowledgments
 

@@ -407,7 +407,7 @@ export default function Portfolio() {
                 <Briefcase size={15}/> Experience
               </button>
 
-              <a href="https://drive.google.com/file/d/1HmspoMe-AGmeCWmCKaZpMrLC1secCtyg/view" target="_blank" rel="noreferrer" style={{
+              <a href="https://drive.google.com/file/d/109ovSq4V1QvFoyjoj5Pbg8Ma6feQyCfx/view?usp=sharing" target="_blank" rel="noreferrer" style={{
                 display:'flex', alignItems:'center', gap:8, padding:'12px 28px',
                 background:'transparent', border:'1px solid #1a2235', borderRadius:10,
                 color:'#64748b', fontSize:13, fontFamily:'DM Sans', cursor:'none',

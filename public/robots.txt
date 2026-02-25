@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vivek-salimath.vercel.app/sitemap.xml
+Sitemap: https://vivek-portfolio-alpha-three.vercel.app/sitemap.xml
